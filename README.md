@@ -32,7 +32,7 @@ Below you'll find a list of all the programs you have available.
 
 ## Visualization Programs
 
-Visualization programs don't alter the input stream, and they let you visualize the input in different ways. Data can be interlaced: several channels can exist in the same input stream. The visualization programs will deinterlace the data to visualize all channels separately and simultaneously.
+Visualization programs don't alter the input stream, and they let you visualize the data from the input stream in different ways. Data can be interlaced: several channels can exist in the same input stream. The visualization programs will deinterlace the data to visualize all channels separately and simultaneously.
 
 These programs are
 
