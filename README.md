@@ -1,5 +1,5 @@
 # vistools
-A basic signal-processing and visualization suite written in C and OpenGL, that I had to write as support for my [thesis](http://oa.upm.es/42882/). Please note that it's still **under development**.
+A basic signal-processing and visualization suite written in C and OpenGL, that I had to write as support for my [thesis](http://oa.upm.es/42882/).
 
 
 ## How it works
